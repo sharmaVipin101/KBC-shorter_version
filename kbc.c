@@ -716,8 +716,8 @@ if(getch())
 
     int n=getch();
     system("cls");
-    while(n>5)
-    {n=n-4;
+    while(n>=6)
+    {n=n-5;
     }
     if(n==1)
     {
