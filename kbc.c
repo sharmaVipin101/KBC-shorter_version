@@ -716,8 +716,11 @@ if(getch())
 
     int n=getch();
     system("cls");
-    while(n>=6)
-    {n=n-5;
+    if(n > 5)
+    {
+        n=n%5;
+        if(n == 0)
+            n = 5;
     }
     if(n==1)
     {
