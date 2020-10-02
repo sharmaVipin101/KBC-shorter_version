@@ -7,7 +7,7 @@
 int set1()
 {char x;
 int result = 1000;
-    printf("set1\n");
+    printf(" set1\n");
     system("COLOR F0");
     printf("\t\t\t\t\t\t\t\t\t\t\t:-:-:-:-:-Welcome to the hotseat-:-:-:-:-:\n\n");
     //question 1
@@ -23,7 +23,7 @@ printf("Ques.1).What is the basic thing required in an interview?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 0;
     }
     printf("\n\t\t\t\t\tPress Enter To Go To Next Question");
@@ -42,7 +42,7 @@ printf("Ques.1).What is the basic thing required in an interview?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 10000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -61,7 +61,7 @@ printf("Ques.1).What is the basic thing required in an interview?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 110000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -80,7 +80,7 @@ printf("Ques.1).What is the basic thing required in an interview?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 1110000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -99,7 +99,7 @@ printf("Ques.1).What is the basic thing required in an interview?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 11110000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -118,7 +118,7 @@ printf("Ques.1).What is the basic thing required in an interview?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 111110000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -136,7 +136,7 @@ printf("Ques.1).What is the basic thing required in an interview?\n");
     else
     {system("cls");
     system("COLOR 4E");
-    printf("\t\tYour answer is wrong");
+    printf("\t\tYour answer is wrong.");
         return 111111000;
     }
     return result;
@@ -161,7 +161,7 @@ printf("Ques.1).How can we communicate with others?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 0;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -180,7 +180,7 @@ printf("Ques.1).How can we communicate with others?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 1000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -199,7 +199,7 @@ printf("Ques.1).How can we communicate with others?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 11000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -218,7 +218,7 @@ printf("Ques.1).How can we communicate with others?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 111000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -237,7 +237,7 @@ printf("Ques.1).How can we communicate with others?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 1111000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -256,7 +256,7 @@ printf("Ques.1).How can we communicate with others?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 11111000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -299,7 +299,7 @@ printf("Ques.1).Give it and take it?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 0;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -318,7 +318,7 @@ printf("Ques.1).Give it and take it?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 1000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -337,7 +337,7 @@ printf("Ques.1).Give it and take it?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 11000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -356,7 +356,7 @@ printf("Ques.1).Give it and take it?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 111000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -375,7 +375,7 @@ printf("Ques.1).Give it and take it?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 1111000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -385,7 +385,7 @@ printf("Ques.1).Give it and take it?\n");
     printf("Ques.6).How many or which programming languages a person should know/learn to be better in coding?\n");
     printf("A).Language from which you get highest paid jobs.\t\t\tB).Language in which the person is interested.\nC).Latest programming language\t\t\tD).All languages.\n");
     x=getch();
-    if(x=='c'||x=='b')
+    if(x=='b'|| x=='c')
     {
         result=result*10;
         printf("Hurrah!! Your answer is correct.\t\t\t\t\t\tYou Won %d",result);
@@ -394,7 +394,7 @@ printf("Ques.1).Give it and take it?\n");
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 11111000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -412,7 +412,7 @@ printf("Ques.1).Give it and take it?\n");
     else
     {system("cls");
     system("COLOR 4E");
-    printf("\t\tYour answer is wrong");
+    printf("\t\tYour answer is wrong.");
         return 111111000;
     }
     return result;
@@ -437,7 +437,7 @@ printf("Ques.1).what should we do after breaking the problem into smaller parts?
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 0;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -456,7 +456,7 @@ printf("Ques.1).what should we do after breaking the problem into smaller parts?
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 100000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -475,7 +475,7 @@ printf("Ques.1).what should we do after breaking the problem into smaller parts?
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 1100000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -494,7 +494,7 @@ printf("Ques.1).what should we do after breaking the problem into smaller parts?
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 11100000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -513,7 +513,7 @@ printf("Ques.1).what should we do after breaking the problem into smaller parts?
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 111100000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -532,7 +532,7 @@ printf("Ques.1).what should we do after breaking the problem into smaller parts?
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 1111100000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -575,7 +575,7 @@ printf("Ques.1).What must be done to get the effective results in programming?\n
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 0;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -594,7 +594,7 @@ printf("Ques.1).What must be done to get the effective results in programming?\n
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 1000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -613,7 +613,7 @@ printf("Ques.1).What must be done to get the effective results in programming?\n
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 11000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -632,7 +632,7 @@ printf("Ques.1).What must be done to get the effective results in programming?\n
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 111000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -651,7 +651,7 @@ printf("Ques.1).What must be done to get the effective results in programming?\n
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 1111000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
@@ -670,7 +670,7 @@ printf("Ques.1).What must be done to get the effective results in programming?\n
     else
     {system("cls");
         system("COLOR 4E");
-        printf("\t\tYour answer is wrong");
+        printf("\t\tYour answer is wrong.");
         return 11111000;
     }
     printf("\t\t\t\t\tPress Enter To Go To Next Question");
